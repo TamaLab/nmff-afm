@@ -1,0 +1,22 @@
+num_iterations = 70
+original_conformation = '4ake_x150y330'
+target_conformation = '1ake_x150y330'
+which_type_of_target = 'tsv'
+combined_amplitude = 25
+res_x = 0.5 # nm
+res_y = 0.5 # nm
+res_z = 0.64 # Angstrom
+size_x = 6.0 # This range represents half the size of the generated image in x-axis
+size_y = 6.0 # This range represents half the size of the generated image in y-axis
+first_mode = 1
+last_mode = 16
+mode_selection = 'slope' # ['slope', 'maxcc', 'maxcc_force_move']
+how_many_threads = 16
+
+# Whether to calculate the RMSD to a reference PDB file
+calculate_rmsd_to_reference = 'no' # ['yes', 'no']
+file_name_of_reference_pdb = ''
+
+# Shape of the probe
+radius_of_probe = 2.0 # nm
+angle_of_probe = 10.0
