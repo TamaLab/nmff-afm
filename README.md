@@ -1,4 +1,4 @@
-# afm-fitting-nma
+# NMFF-AFM flexible fit-in
 # Usage
 To perform a flexible fit-in, follow these steps:
 #### 1. Create a Directory: Begin by creating a new directory where all necessary files will be stored.
