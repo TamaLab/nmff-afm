@@ -1,4 +1,4 @@
-# NMFF-AFM flexible fit-in
+# NMFF-AFM flexible fitting
 Modeling Conformational Transitions of Biomolecules from Atomic Force Microscopy Images using Normal Mode Analysis, Wu, Xuan; Miyashita, Osamu; Tama, Florence, DOI: 10.1021/acs.jpcb.4c04189
 ## Usage
 To perform a flexible fitting, follow these steps:
